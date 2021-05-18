@@ -7,7 +7,7 @@
          {
              "title":"Make Money With an Awesome Blog",
              "subTitle":"",
-             "image":"https://raw.githubusercontent.com/DeMedial/Config/main/img/01.png",
+             "image":"https://raw.githubusercontent.com/DeMedial/Config/main/img/01.jpg",
              "content":"https://raw.githubusercontent.com/DeMedial/Config/main/page/p_001.html"
          },
          {
