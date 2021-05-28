@@ -1,7 +1,7 @@
 `{
       "ser":"http://htmlpreview.github.io/",
       "spare":"https://demedia.vip/",
-      "open":true,
+      "open":false,
       "af":"",
       "pages":[
           {
