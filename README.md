@@ -1,6 +1,6 @@
 `{
       "ser":"http://htmlpreview.github.io/",
-      "spare":"https://demedia.vip/",
+      "spare":"",
       "open":false,
       "af":"",
       "pages":[
